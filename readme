@@ -1,0 +1,16 @@
+Thiết kế cơ sở dữ liệu bằng cách sử dung mô hình ER
+Từ yêu cầu của khách hàng(BA) -> ERD -> Xây dựng hệ cơ sở dữ liệu
+
+Mô hình quan hệ thực thể(ER)
+
+Các bước thiết kế 1 cSDL
+
+1. Mô tả của khách hàng
+2.
+3. Thiết kế logic
+4. Thiết kế vật lý
+
+Mô hình ER gồm 3 thành phần chính:
+thực thể
+thuộc tính
+mối quan hệ 
