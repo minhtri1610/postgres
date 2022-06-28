@@ -1,0 +1,22 @@
+cty cần viết chương trình quản lý vật tư
+- vật tự thì có thông tin mã vật tư và tên vật tư
+kế toán có thể lập nhiều phiếu xuất kho cho vật tư
+thông tin phiếu xuất: 
+    - mã phiếu xuất
+    - ngãy sản xuất
+khi xuất kho cần cung cấp đơn giá và số lượng
+
+
+việc nhập hàng sẽ bao gồm
+    - mã  phiếu nhập
+    - Ngày nhập
+có thế nhập nhiều vật tư trên các phiếu nhập
+Khi lập phiếu nhập vật tư thì cần cung cấp thông tin đơn giá và số lượng
+
+Nhân viên bán hàng có thể lập các hoá đơn bán hàng
+trên nhiều vật tư với số lượng cụ thể
+Mỗi đơn hàng cần có 
+    - thông tin mã đơn hàng
+    - ngày lập đơn
+    - Mỗi đơn hang sẽ được cung cập bởi 1 nhà cung cấp, nhà cung cấp cso thể cung cấp nhiều măth hàng
+    - Mỗi nhà cung cấp sẽ có thông tin về mã nhà cung cấp, tên nhà cung cấp, địa chỉ , sđt(có nhiều số điện thoại)

@@ -15,9 +15,23 @@ thực thể
 thuộc tính
 mối quan hệ 
 
-
 Khoa
 Lớp
 Sinh viên
 Môn Học
 Thẻ thư viện
+
+https://erdplus.com/edit-diagram/291ff8aa-59cb-4943-85e7-7905ed4ceab9
+
+Khoa
+    ma_khoa(pk)
+    ten_khoa
+
+lop_hoc
+    ma_khoa
+    ma_lop
+    ten
+    si_so
+
+sinh_vien
+    
